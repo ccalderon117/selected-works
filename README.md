@@ -7,7 +7,7 @@ Open `index.html` directly. No server, dependencies, install command, or build s
 - All portfolio content is in `index.html`, with numbered project comments.
 - Colors, spacing, typography, and responsive layouts are in `styles.css`.
 - `script.js` only enhances navigation. Content and links work without JavaScript.
-- Replace `resume.pdf` with your own PDF at any time. The included resume was prepared from the supplied brief; its editable source is `assets/projects/resume.html`.
+- The page links to `Resume- Cesar A. Calderon.pdf`, supplied by Cesar. The earlier generated `resume.pdf` and its HTML source are retained in the folder but are not linked from the page.
 - Add your verified email, LinkedIn, and GitHub in the commented Contact block in `index.html` and the resume source. No addresses or accounts were invented.
 - Add the deployed URL to the commented canonical and Open Graph URL tags. Make social image URLs absolute after deployment.
 - Project 04 contains a linked example of newsroom data work, credited to the story’s reporter.
